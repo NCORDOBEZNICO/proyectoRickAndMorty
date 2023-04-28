@@ -1,0 +1,29 @@
+.App {
+   text-align: center;
+}
+
+* {
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+
+
+body {
+   background-image: url(../src/components/assets/img/ricksanchez.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+   background-attachment: fixed;
+   background-size: cover;
+}
+
+
+
+.nav {
+   display: flex;
+   padding: 1em;
+   flex-direction: row;
+   justify-content: end;
+   margin-bottom: 1em;
+   
+}
+
